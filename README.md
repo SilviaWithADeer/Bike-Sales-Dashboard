@@ -1,2 +1,2 @@
 # Bike-Sales-Dashboard
-Excel Project - a dashbiard for bike sales
+Excel Project - A Dashboard for Bike Sales
