@@ -14,7 +14,7 @@ What it does:
   
   - Income and Gender
   - Commute Distance
-  - Age bracket
+  - Age Brackets
 * Uses pivot tables and charts in a sheet called: Pivot Table
 * Builds a dashboard with slicers for filtering in the sheet: Dashboard
 * Includes a "Clear All" button, powered by a Macro, that clears all applied filters.
