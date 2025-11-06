@@ -1,15 +1,16 @@
 # Bike-Sales-Dashboard
 
-## A Macro Enabled Excel Dashboard that analizes the data for bike sales.
+## Excel Dashboard for Analyzing Bike Sales Data (Macro-Enabled)
 
-This project was made in order to analize sale date for epople byuing bikes. 
-It does the following: 
+This project features a macro-enabled Excel dashboard designed to analyze bike sales data and provide insights into customer purchasing behavior.
 
-* Saves the raw data in a separate Excel Sheet: bike_buyers and uses a copy of the date to create the project: Working sheet
-* Cleans and formats data: text, dates, numbers
-* Changes values in order to be better readable for the user that is accesing the Dashboard 
+What it does:
+
+* Stores the raw data in a separate Excel Sheet: bike_buyers and works with a copy of it: Working sheet
+* Cleans and formats data (text, dates, numbers)
+* Makes values easier to read for the user that is accesing the Dashboard (ex: "M" in the Gender column is changed to "Male" and "M" in the Marital Status column is changed to "Married")
 * Creates an Age Bracket column that groups customers acording to their ages
-* Creates Excel Sheet: Pivot Table where the pivots and charts are created
-* Data is analized according to different customer criteria in relation to where they bought the bike or not: income and gender, commute to work and age brackets.
-* The charts are then used in the dashboard, which slisers included in order to future filter data
-* The last step is to add a Clear All Filters button with a Macro attached.
+* Analyzes data based on whether someone bought a bike, looking at 1. income and gender, 2. commute distance, and 3. age
+* Uses pivot tables and charts in a sheet called: Pivot Table
+* Builds a dashboard with slicers for filtering in the sheet: Dashboard
+* Includes a "Clear All" button, powered by a Macro, that clears all applied filters.
