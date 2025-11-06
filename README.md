@@ -5,7 +5,7 @@
 This project was made in order to analize sale date for epople byuing bikes. 
 It does the following: 
 
-* Saves the raw date in a separate Excel Sheet: bike_buyers and uses a copy of the date to create the project: Working sheet
+* Saves the raw data in a separate Excel Sheet: bike_buyers and uses a copy of the date to create the project: Working sheet
 * Cleans and formats data: text, dates, numbers
 * Changes values in order to be better readable for the user that is accesing the Dashboard 
 * Creates an Age Bracket column that groups customers acording to their ages
