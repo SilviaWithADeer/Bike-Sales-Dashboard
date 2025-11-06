@@ -10,7 +10,7 @@ What it does:
 * Cleans and formats data (text, dates, numbers)
 * Makes values easier to read for the user that is accesing the Dashboard (ex: "M" in the Gender column is changed to "Male" and "M" in the Marital Status column is changed to "Married")
 * Creates an Age Bracket column that groups customers acording to their ages
-* Analyzes data based on whether someone bought a bike, looking at 1. income and gender, 2. commute distance, and 3. age
+* Analyzes data based on whether someone bought a bike, looking at 1. income and gender, 2. commute distance, and 3. age bracket
 * Uses pivot tables and charts in a sheet called: Pivot Table
 * Builds a dashboard with slicers for filtering in the sheet: Dashboard
 * Includes a "Clear All" button, powered by a Macro, that clears all applied filters.
