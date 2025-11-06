@@ -8,7 +8,7 @@ What it does:
 
 * Stores the raw data in a separate Excel Sheet: bike_buyers and works with a copy of it: Working sheet
 * Cleans and formats data (text, dates, numbers)
-* Makes values easier to read for the user that is accesing the Dashboard (ex: "M" in the Gender column is changed to "Male" and "M" in the Marital Status column is changed to "Married")
+* Makes values easier to read for the user that is accesing the Dashboard (eg: "M" in the Gender column is changed to "Male" and "M" in the Marital Status column is changed to "Married")
 * Creates an Age Bracket column that groups customers acording to their ages
 * Analyzes data based on whether someone bought a bike, looking at:
   
